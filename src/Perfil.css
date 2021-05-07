@@ -1,0 +1,37 @@
+.textoIntro{
+    padding: 5% ;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 55vw;
+    margin: 0 auto;
+}
+
+form input {
+    margin: 1%;
+    padding: 1%;
+}
+
+.bottonEnvio {
+    display: flex;
+    width:100%;
+    justify-content: space-evenly;
+    padding: 1vw !important;
+    margin-top: 5%;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.199);
+    border: 1px solid lightgray;
+    background-color: #343A40;
+    border-radius: 4px;  
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 16px;
+}
+
+.bottonEnvio:hover{
+        background:#732982
+     }
+
+     

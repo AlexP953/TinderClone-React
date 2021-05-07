@@ -1,0 +1,29 @@
+.tarjeta {
+    position:relative;
+    width: 600px;
+    padding:20px;
+    max-width: 85vw;
+    height: 50vh;
+    border-radius: 15px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 20px 25px 0 rgb(175, 175, 175);
+    background-image: url("https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png");
+}
+
+.tarjeta h2{
+    position: absolute;
+    bottom: 10px;
+    color: black;
+}
+
+.tarjetasTinder__contenedor {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+
+}
+
+.swipe{
+    position: absolute;
+}
