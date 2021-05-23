@@ -13,9 +13,9 @@ Prueba una demo [aquí](https://tinderwreact.web.app/)
 
 ## Lenguajes
 
-React
-HTML
-CSS
+* React
+* HTML
+* CSS
 
 
 ## Creado por
