@@ -6,7 +6,8 @@ Un clon de Tinder hecho con React
 * React
 * HTML
 * CSS
-* 
+
+
 ## Demo
 
 Prueba una demo [aquí](https://tinderwreact.web.app/)
